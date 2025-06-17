@@ -1,7 +1,3 @@
-function App() {
-  return <h1>Hello World , Again | Sujit pandey</h1>;
-}
-
 function Hello() {
   return (
     <p>
@@ -12,5 +8,4 @@ function Hello() {
     </p>
   );
 }
-
-export default App;
+export default Hello;
